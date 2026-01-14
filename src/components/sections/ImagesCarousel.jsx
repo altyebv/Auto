@@ -3,8 +3,8 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 import img1 from '../Images/image.png';
 import img2 from '../Images/image2.png';
 import img3 from '../Images/image3.png';
-import img4 from '/../Images/image4.png';
-import img5 from '/../Images/image5.png';
+import img4 from '../Images/image4.png';
+import img5 from '../Images/image5.png';
 
 const ImageCarousel = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
